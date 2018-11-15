@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body { 
+    /* background-image: url("../images/wheat.jpg"); */
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-color: lightblue; 
+}
+
+
+
+.hero {
+ background-color:skyblue; 
+}
